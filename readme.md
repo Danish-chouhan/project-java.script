@@ -161,3 +161,94 @@ var c = confirm("hlw how are you do you like our webpage or not if u like then p
    }
 ```
 ---
+### <u>prompt box</u>
+> prompt box is useful when we want to how something in output or popup by writen in popup so the pattern is to write in output is
+```javascript
+var per = prompt("write your percentence here")
+if(per >= 80 && per <= 100){
+    document.write("you are in marit")
+}else if(per >= 60 && per <= 80){
+    document.write("you are in 1st division")
+} else if(per >= 45 && per <= 60){
+    document.write("you are in 2nd division")
+}else if(per >= 33 && per <= 45){
+    document.write("you are in 3rd division")
+}else if(per < 33){
+    document.write("you are in fail")
+}else {
+    document.write("enter your valid percentence")
+}
+```
+> for popup write we use this pattern
+```javascript
+var d = prompt("write your percentence")
+
+ alert = (d)
+```
+---
+### <u>functions uses</u>
+> if we want to write someting duplicate at 100 time we use function so we dont have t change somithing in each line we have to change only parrent and they are all childs are automatically changed so the pattern is
+```javascript
+  function hlw(){
+    document.write("hlw i m danish chouhan how are u i think u felling so good")
+ };
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<hr>")
+```
+> in this pattern veriable value is hlw we can write anything at hlw if we want another value
+---
+### <u>LOOPS </U>
+>LOOP IS DIVIDED IN 3 PARTS 
+(INITIALIZATION , CONDITION INCREMENT OR DECREMENT )
+1 -> INITIALIZATION IS HAVE TO MAKE THAT ONE VALUE THAT WE HAVE TO RUN 
+2 -> CONDITION IF CONDITION IS TRUE THE THIRD PART IS USABLE IF CONDITION IS FALSE THE 3RD PART IS NOT USABLE 
+3 -> THE THIRD PART IS INCREMNT , DECREMENT IF YOU WANT TO COME UPER TO LOWER THEN USE DECREMENT AND IF U WANT TO COME LOWER TO UPER THE USE INCREMENT 
+THERE ARE FIVE (5) TYPE OF LOOS 
+<b>
+1 -> while loop
+2 -> do/whilw loop
+3 -> for loop
+4 -> for/in loop
+5 -> for each loop 
+</b>
+now i tell u what is while loop
+so the pattern is
+
+>for INCREMENT LOOP
+```JAVASCRIPT 
+var a = 1;
+
+ while(a <= 10){
+     document.write("hlw guys i m danish chouhan i have to learn loops in (js) so this is only demo<br>");
+    a = a + 1; 
+ }
+ ```
+ >for decrement loop
+```javascript
+var ee = 10;
+
+ while(ee >= 1){
+     document.write(ee + " )hlw guys i m danish chouhan i have to learn loops in (js) so this is only demo<br>");
+    ee = ee - 1; 
+ }
+ ```

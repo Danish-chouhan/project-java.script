@@ -45,6 +45,7 @@ if( aa > bb ){
 }else{
     alert("b is greater")
 }
+document.write("<hr>")
 var c = confirm("hlw how are you do you like our webpage or not if u like then press ok otherwise cancel")
       
    if(c){
@@ -53,3 +54,55 @@ var c = confirm("hlw how are you do you like our webpage or not if u like then p
    else{
     alert("sorry")
    }
+   document.write("<hr>")
+var per = prompt("write your percentence here")
+if(per >= 80 && per <= 100){
+    document.write("you are in marit")
+}else if(per >= 60 && per <= 80){
+    document.write("you are in 1st division")
+} else if(per >= 45 && per <= 60){
+    document.write("you are in 2nd division")
+}else if(per >= 33 && per <= 45){
+    document.write("you are in 3rd division")
+}else if(per < 33){
+    document.write("you are in fail")
+}else {
+    document.write("enter your valid percentence")
+}
+document.write("<hr>")
+var d = prompt("write your percentence");
+
+ alert(d);
+ document.write("<hr>")
+ function hlw(){
+    document.write("hlw i m danish chouhan how are u i think u felling so good")
+ };
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<br>")
+ hlw();
+ document.write("<hr>")
+ var ee = 10;
+
+ while(ee >= 1){
+     document.write(ee + " )hlw guys i m danish chouhan i have to learn loops in (js) so this is only demo<br>");
+    ee = ee - 1; 
+ }
+ 

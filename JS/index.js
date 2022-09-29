@@ -105,4 +105,7 @@ var d = prompt("write your percentence");
      document.write(ee + " )hlw guys i m danish chouhan i have to learn loops in (js) so this is only demo<br>");
     ee = ee - 1; 
  }
- 
+ document.write("<hr>")
+function Hello(){
+           alert("hlw this is we called event ")
+}

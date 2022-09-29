@@ -252,3 +252,31 @@ var ee = 10;
     ee = ee - 1; 
  }
  ```
+ ---
+ ### <u>Click Events</u>
+ > on click event is popup event but in key press there are 6 types of event 
+ <b>
+
+ | event | how to use |
+ |-------|------------|
+ |click  ->| onclick |
+ |Double click ->| ondblclick|
+ |right click ->| oncontextmenu|
+ |Mouse hover ->| onmouseenter |
+ |mouse out -> | onmouseout|
+ |mouse down ->| onmousedown|
+ > so the patten to make event is 
+ ```javascript
+    function Hello(){
+           alert("hlw this is we called event ")
+}
+<body>
+       <button onclick="Hello()">click me for {single click} (onclick)event</button> 
+       <button ondblclick="Hello()">click me for {double click}(ondblclick)event</button>
+       <button oncontextmenu="Hello()">click me for {right click}(oncontextmenu)event</button>
+       <button onmouseenter="Hello()">click me for {mouse enter }(onmouseenter)event</button>
+       <button onmouseout="Hello()">click me for {mouse out}(onmouseout)event</button>
+       <button onmousedown="Hello()">click me for {mouse up}(onmousedown)event</button>
+      
+</body>
+ ```

@@ -34,17 +34,17 @@ forword slash + star for more then one line so the pattern is
 for single line we use [// hlw //]
 for more then one line [/*hlw */]
 ```
-### <u> for giving value like id or class we use nav tag in js </u>
+### <u> for giving value like id or class we use var tag in js </u>
 > we use[ nav + any value ="any word" the pattern is 
 ```javascript
-nav value =""
+var value =""
 FOR OUTPUT SHOW WE USE 
 document.write(value that we given in nav tag)
 ```
 ### <u>for numberic we use </U>
 > we dont have to use double dots the pattern is 
 ```java
-nav + value = any number
+var + value = any number
 WE DONT USE DOUBLE COTS
 ```
 ---
@@ -253,6 +253,25 @@ var ee = 10;
  }
  ```
  ---
+ ### <u>Do while loop</u>
+ > there are some difference between 
+ (while loop)and (do while loop) 
+while loop first do initialization then condition then increment aur decrement
+the do while loop is oposite 
+do while loop first do initialization then increment and decrement then conditon 
+
+>so the pattern is 
+```javascript
+var a = 1
+
+do{
+    ducument.write("this is do while loop")
+
+    a = a + 1
+}while(a <= 10)
+```
+
+ ---
  ### <u>Click Events</u>
  > on click event is popup event but in key press there are 6 types of event 
  <b>
@@ -279,4 +298,3 @@ var ee = 10;
        <button onmousedown="Hello()">click me for {mouse up}(onmousedown)event</button>
       
 </body>
- ```

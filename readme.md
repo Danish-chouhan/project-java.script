@@ -1,0 +1,34 @@
+# [JAVA-SCRIPT]
+---
+[11-comparision ](./JS/11-comparation-operator.js)
+---
+[12-if-statement](./JS/12-if-statment.js)
+---
+[13-logical-operator](./JS/13-logical-operator.js)
+---
+[14-if-else-statment](./JS/14-if-else-statement.js)
+---
+[15-if-else-if-statment](./JS/15-if-else-if-statment.js)
+---
+[16-condition-terenary-operator](./JS/16-condition-terenary-operator.js)
+---
+[17-switch-case](./JS/17-switch-case.js)
+---
+[18-alert-box](./JS/18-alert-box.js)
+---
+[19-confirm-box](./JS/19-confirm-box.js)
+---
+[20-prompt-box](./JS/20-prompt-box.js)
+---
+[21-function](./JS/21-function.js)
+---
+[22-function-with-parameter](./JS/22-function-with-parameter.js)
+---
+[24-global-and-local-variable](./JS/24-global-and-local-variable.js)
+---
+[25-events](./JS/25-events.js)
+---
+[26-while-loop](./JS/26-while-loop.js)
+---
+[27-do-while-loop](./JS/27-do-while-loop.js)
+---

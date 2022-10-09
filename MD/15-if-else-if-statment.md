@@ -1,5 +1,5 @@
 # IF ELSE IF STATEMENT
-
+[JS FILE](./15-if-else-if-statment.md)
 > if we have too much value to show then we use (if else if statement)
 becouse if we have one value to show then the if else if value works 
 so the pattern is 

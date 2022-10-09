@@ -1,0 +1,12 @@
+# comments
+[JS FILE](./4-comments.md)
+> there are many types of cment tag but in js the method id changed if u want to comment single line then use double slash(//) then if u want yo one or more line then use slash and star (/*)
+```javascript
+document.write("1 -->FOR SINGLE LINE COMMENT WE ALWAYS USE DOUBLE SLASH AT THE STARTING POINT AND ENDING POINT(//)<BR><HR>")
+//document.write("SINGLE LINE COMMENT")//
+document.write("2 -->FOR ONE OR MORE LINE COMMENT WE ALWAYS USE SLASH AND STAR AT THE STARTING POINT AND ENDING POINT WE USE STAR AND SLASH(/*)(*/)")
+/*document.write("FOR ONE OR MORE LINE COMMENT WE ALWAYS USE SLASH AND STAR AT THE STARTING POINT AND ENDING POINT WE USE STAR AND SLASH(/*)()")
+document.write("FOR ONE OR MORE LINE COMMENT WE ALWAYS USE SLASH AND STAR AT THE STARTING POINT AND ENDING POINT WE USE STAR AND SLASH(/*)()")
+document.write("FOR ONE OR MORE LINE COMMENT WE ALWAYS USE SLASH AND STAR AT THE STARTING POINT AND ENDING POINT WE USE STAR AND SLASH(/*)()")
+document.write("FOR ONE OR MORE LINE COMMENT WE ALWAYS USE SLASH AND STAR AT THE STARTING POINT AND ENDING POINT WE USE STAR AND SLASH(/*)()")*/
+```

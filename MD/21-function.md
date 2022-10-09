@@ -1,4 +1,5 @@
 # FUNCTION  
+[JS FILE](./21-function.md)
 > if we want to write one thing again and again but we have no time and we have to save our time then we use function 
 so the pattern is 
 ```javascript

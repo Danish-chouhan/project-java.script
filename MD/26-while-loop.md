@@ -1,5 +1,5 @@
 # WHILE LOOP
-
+[JS FILE](./26-while-loop.md)
 
 >THERE ARE 5 TYPE OF LOOP 
 

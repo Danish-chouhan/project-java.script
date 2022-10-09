@@ -1,5 +1,5 @@
 # switch case 
-
+[JS FILE](./17-switch-case.md)
 > switch condition work like this if we want a true statement then we use switch case becouse in this if one condition is not true then second one is true 
 so the pattern is 
 ```javascript

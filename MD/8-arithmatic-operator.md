@@ -1,5 +1,5 @@
 # arithmatic operator 
-[JS FILE](./8-arithmatic-operator.md)
+[JS FILE](../JS/8-arithmatic-operator.js)
 | operator | name |
 |----|------|
 |+|addition|

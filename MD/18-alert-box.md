@@ -1,5 +1,5 @@
 # ALERT BOX 
-[JS FILE](./18-alert-box.md)
+[JS FILE](../JS/18-alert-box.js)
 > if we have to show our value in pop up then we use alert mode so the pattern is 
 
 ```javascript

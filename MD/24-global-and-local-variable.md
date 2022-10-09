@@ -1,5 +1,5 @@
 # GLOBAL AND LOCAL VARIABLE
-[JS FILE](./24-global-and-local-variable.md)
+[JS FILE](../JS/24-global-and-local-variable.js)
 > diffrence between local and global variable 
 local -> not work at outise of function 
 BUT

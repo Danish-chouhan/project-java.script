@@ -1,5 +1,5 @@
 # google chrome console 
-[JS FILE](./10-google-chrome-console.md)
+[JS FILE](../JS/10-google-chrome.js)
 > we can use console for test anything whithout showing t ouput you must have to use console.log at the place of ducument.write so the pattern is 
 ```javascript 
 var a = 10

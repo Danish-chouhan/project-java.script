@@ -1,5 +1,5 @@
 # assignment operator
-[JS FILE](./9-assignment-operator.md)
+[JS FILE](../JS/9-assignment-operator.js)
 > table of assingnment operator
 
 | operator | example | same as|

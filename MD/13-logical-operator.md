@@ -1,5 +1,5 @@
 # logical operator
-[JS FILE](./13-logical-operator.md)
+[JS FILE](../JS/13-logical-operator.js)
 > if we want 2 or more value to run in one condition then use logicla operator in other we have to true the usable value if they are true then they work but if we use logical operator then they are not important for our condition 
 there are three types of logical operator
 

@@ -1,5 +1,5 @@
 # EVENTS
-[JS FILE](./25-events.md)
+[JS FILE](../JS/25-events.js)
 > we use event tag for give clicks on event 
 like 
 single click to show file 

@@ -1,5 +1,5 @@
 # COMPARISON OPERATOR 
-[JS FILE](./11-comparison-operators.md)
+[JS FILE](../JS/11-comparation-operator.js)
 > table of comparison operator
 ### <u>COMPARISION OPERATOR</u>
 | OPERATOR   | DESCRIPTION |

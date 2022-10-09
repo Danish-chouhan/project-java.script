@@ -1,5 +1,5 @@
 # variable (let)or(const)
-[JS FILE](./6-variables-let%2Cconst.md)
+[JS FILE](../JS/6-variables-let%2Cconst.js)
 > as u know in var we can write one condition in different times but in let or const we cant do that most of daveloper use var tag for there project becouse we cant write one condition in deferent times in  let or cont so the pattern to write let or const is 
 ---
 ### let 

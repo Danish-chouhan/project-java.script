@@ -1,5 +1,5 @@
 # variables 
-[JS FILE](./5-variables.md)
+[JS FILE](../JS/5-variables.js)
 > there are 3 types of variables 
 * var
 * let

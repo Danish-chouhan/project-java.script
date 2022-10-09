@@ -1,5 +1,5 @@
 # Data types 
-[JS FILE](./7-data-types.md)
+[JS FILE](../JS/7-data-types.js)
 > tableof data types 
 
 |data|types|

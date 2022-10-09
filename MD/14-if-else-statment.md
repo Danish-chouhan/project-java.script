@@ -1,5 +1,5 @@
 # IF ELSE- STATMENT 
-[JS FILE](./14-if-else-statment.md)
+[JS FILE](../JS/14-if-else-statement.js)
 > how the if statment 
 so
 we have a single value but to statement then we use (if statment) and (else)if the value is true then if can show and if the value is false then else can handle it 

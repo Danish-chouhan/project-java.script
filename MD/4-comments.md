@@ -1,5 +1,5 @@
 # comments
-[JS FILE](./4-comments.md)
+[JS FILE](../JS/4-comments.js)
 > there are many types of cment tag but in js the method id changed if u want to comment single line then use double slash(//) then if u want yo one or more line then use slash and star (/*)
 ```javascript
 document.write("1 -->FOR SINGLE LINE COMMENT WE ALWAYS USE DOUBLE SLASH AT THE STARTING POINT AND ENDING POINT(//)<BR><HR>")

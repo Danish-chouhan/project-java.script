@@ -47,3 +47,11 @@
 ---
 [27-do-while-loop](./MD/27-do-while-loop.md)
 ---
+[28-for-loop](./MD/28-for-loop.md)
+---
+[29-find-even-or-odd](./MD/29-find-even-or-odd-loop.md)
+---
+[30-continue-or-break-statement](./MD/30-break-continue-statement.md)
+---
+[31-nasted-loop](./MD/31-nested-loop.md)
+---

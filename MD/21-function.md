@@ -1,5 +1,5 @@
 # FUNCTION  
-[JS FILE](./21-function.md)
+[JS FILE](../JS/21-function.js)
 > if we want to write one thing again and again but we have no time and we have to save our time then we use function 
 so the pattern is 
 ```javascript

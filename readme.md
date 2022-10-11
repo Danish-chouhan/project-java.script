@@ -55,3 +55,5 @@
 ---
 [31-nasted-loop](./MD/31-nested-loop.md)
 ---
+[32-nastd-loop-II](./MD/32-nasted-loop.md)
+---

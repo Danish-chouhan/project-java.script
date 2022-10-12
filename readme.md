@@ -57,3 +57,7 @@
 ---
 [32-nastd-loop-II](./MD/32-nasted-loop.md)
 ---
+[33-Arrey](./MD/33-Arreys.md)
+---
+[34-created-arrey](./MD/34-created-Arreys.md)
+---

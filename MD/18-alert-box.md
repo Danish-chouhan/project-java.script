@@ -1,6 +1,6 @@
 # ALERT BOX 
 [JS FILE](../JS/18-alert-box.js)
-> if we have to show our value in pop up then we use alert mode so the pattern is 
+> if we have to show our value in pop up then we use alert mode so the pattern to write in input
 
 ```javascript
 var aa = 16

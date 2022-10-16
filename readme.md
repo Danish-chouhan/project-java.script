@@ -59,5 +59,13 @@
 ---
 [33-Arrey](./MD/33-Arreys.md)
 ---
-[-created-arrey](./MD/34-created-Arreys.md)
+[34-created-arrey](./MD/34-created-Arreys.md)
+---
+[35-modify-and-delete-arreys-element](./MD/35-modify-delete-Arrays-element.md)
+---
+[37-sort-and-reverse-array-method](./MD/37-sort-and-revrse-Arrays-element.md)
+---
+[38-pop-and-push-array-method](./MD/38-pop-and-push-Arrays-element.md)
+---
+[39-shift-and-unshift](./MD/39-shift-and-unshift-Arrays-methods.md)
 ---

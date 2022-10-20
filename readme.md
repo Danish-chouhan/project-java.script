@@ -67,5 +67,5 @@
 ---
 [38-pop-and-push-array-method](./MD/38-pop-and-push-Arrays-element.md)
 ---
-[-shift-and-unshift](./MD/39-shift-and-unshift-Arrays-methods.md)
+[40-shift-and-unshift](./MD/39-shift-and-unshift-Arrays-methods.md)
 ---

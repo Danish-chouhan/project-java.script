@@ -70,4 +70,3 @@
 ---
 [40-shift-and-unshift](./MD/39-shift-and-unshift-Arrays-methods.md)
 ---
-# THE END 

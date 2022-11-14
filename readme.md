@@ -77,4 +77,8 @@
 [42-is-array](./MD/42-is-array.md)
 ---
 [43-indexOf-and-lastindexOf](./MD/43-indexOf-and-lastindexOf.md)
+---
+[44-include-method](./MD/44-include-method.md)
+---
+
 # The end

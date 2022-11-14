@@ -76,4 +76,5 @@
 ---
 [42-is-array](./MD/42-is-array.md)
 ---
+[43-indexOf-and-lastindexOf](./MD/43-indexOf-and-lastindexOf.md)
 # The end

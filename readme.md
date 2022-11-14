@@ -68,6 +68,12 @@
 ---
 [38-pop-and-push-array-method](./MD/38-pop-and-push-Arrays-element.md)
 ---
-[40-shift-and-unshift](./MD/39-shift-and-unshift-Arrays-methods.md)
+[39-shift-and-unshift](./MD/39-shift-and-unshift-Arrays-methods.md)
+---
+[40-concat-and-join](./MD/40-concat-and-join-Arrays-methods.md)
+---
+[41-slice-and-splice](./MD/41-slice-splice-array.md)
+---
+[42-is-array](./MD/42-is-array.md)
 ---
 # The end

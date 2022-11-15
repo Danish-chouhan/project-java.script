@@ -84,4 +84,6 @@
 ---
 [49-for-each-loop-method](./MD/49-for-each-loop.md)
 ---
+[50-object-totorial](./MD/50-object-totorial.md)
+---
 # The end

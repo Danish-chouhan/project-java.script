@@ -88,4 +88,6 @@
 ---
 [51-object-totorial-II](./MD/51-object-totorial-II.md)
 ---
+[52-array-of-object](./MD/52-arrays-of-object.md)
+---
 # The end

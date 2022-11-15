@@ -80,5 +80,8 @@
 ---
 [44-include-method](./MD/44-include-method.md)
 ---
-
+[45-some-and-every-method](./MD/45-some-and-every-method.md)
+---
+[49-for-each-loop-method](./MD/49-for-each-loop.md)
+---
 # The end

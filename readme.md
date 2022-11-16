@@ -94,4 +94,6 @@
 ---
 [54-for-in-loop](./MD/54-for-in-loop.md)
 ---
+[55-map-method](./MD/55-map-method.md)
+---
 # The end

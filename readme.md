@@ -98,4 +98,6 @@
 ---
 [56-string-method](./MD/56-string-methos.md)
 ---
+[57-string-method-II](./MD/57-string-method-II.md)
+---
 # The end

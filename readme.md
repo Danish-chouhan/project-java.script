@@ -96,4 +96,6 @@
 ---
 [55-map-method](./MD/55-map-method.md)
 ---
+[56-string-method](./MD/56-string-methos.md)
+---
 # The end

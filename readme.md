@@ -106,4 +106,6 @@
 ---
 [57-string-method-II](./MD/57-string-method-II.md)
 ---
+[58-number-method](./MD/58-number-method.md)
+---
 # The end

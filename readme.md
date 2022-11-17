@@ -84,6 +84,8 @@
 ---
 [46-find-or-finidIndex-method](./MD/46-find-or-findindex-method.md)
 ---
+[47-fillter-method](./MD/47-filter-method.md)
+---
 [49-for-each-loop-method](./MD/49-for-each-loop.md)
 ---
 [50-object-totorial](./MD/50-object-totorial.md)

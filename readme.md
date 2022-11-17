@@ -108,4 +108,6 @@
 ---
 [58-number-method](./MD/58-number-method.md)
 ---
+[59-math-method](./MD/59-math-method.md)
+---
 # The end

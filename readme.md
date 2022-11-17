@@ -82,6 +82,8 @@
 ---
 [45-some-and-every-method](./MD/45-some-and-every-method.md)
 ---
+[46-find-or-finidIndex-method](./MD/46-find-or-findindex-method.md)
+---
 [49-for-each-loop-method](./MD/49-for-each-loop.md)
 ---
 [50-object-totorial](./MD/50-object-totorial.md)

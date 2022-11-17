@@ -110,4 +110,6 @@
 ---
 [59-math-method](./MD/59-math-method.md)
 ---
+[60-Date-method](./MD/60-Date-method.md)
+---
 # The end

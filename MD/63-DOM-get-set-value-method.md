@@ -38,4 +38,52 @@ var a = document.getElementById('ID').getAttributeNode("class").value
 document.write(a)
 ```
 ---
+> s u know that DOM have 2 types (get) and (set) in previus we learn about get you know that you can get any thing with the help of get method now we have to edit before changes update so we are going to take use of (set)
+---
+# DOM -> set value 
+> there are 5 Methods of DOM set value
+1 -> innerText
+2 -> innerHTML
+3 -> setAttribute
+4 -> Attribute
+5 -> removeAttribute
+---
+### (set) innerText
+> as you know that how to get value now i tell u how to set value 
+```javascript
+var a = document.getElementById('ID').innerText = "hlw i m danish"
+document.write(a)
+```
+> that's very simple just use eqal sing and write what u want to change in dots at front of equal sing
+---
+### (set) innerHTML
+> as u know that u can change only change the text but if u want to change them with tags of HTML then us this 
+```javascript
+var a = document.getElementById('ID').innerHTML = "<h1>hlw i m danish</h1>"
+document.write(a)
+```
+> that's all are same only u have to add tags inside dots at front of equal sing 
+---
+### (setAttribute)
+> this is oly form change attribute inside of html tags from js but there are two prameter inside this (name , change value)
+```javascript
+var b = document.getElementById("a1").setAttriute("class","hlw")
 
+document.write(b)
+```
+---
+### Attribute
+> this may changed in short but u ham=ve to learn indexing becouse its may work like from array
+```javascript
+var b = document.getElementById("a1").Attribute[1].value  = "hlw"
+
+document.write(b)
+```
+### removeAttribute
+> its work to remove attributes its may work like this
+```javascript
+var b = document.getElementById("a1").RemoveAttribute(s"tyle")
+
+document.write(b)
+```
+---

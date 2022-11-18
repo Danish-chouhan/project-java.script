@@ -14,10 +14,10 @@ and then after this there are two more point
 |(child) title|
 |(text) 'new website'|
 
-| body | |
+| body | body|
 |---|---|
-|(element) <nav>|(element) <h1>|
-|(element) <a>| (text) welcome|
+|(element) nav|(element) h1|
+|(element) a| (text) welcome|
 |(Text) 'About Us'| (attribute) 'id'|
 |(attribute) 'class'| (attribute) 'class'|
 

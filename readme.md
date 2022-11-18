@@ -114,4 +114,6 @@
 ---
 [61-DOM-introduction](./MD/61-DOM-introduction.md)
 ---
+[62-DOM-target-methods](./MD/62-DOM-target-object.md)
+---
 # The end

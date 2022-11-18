@@ -1,4 +1,6 @@
 # DOM
+[JS FILE](../JS/61-DOM-introduction.js)
+---
 ## DOCUMENT OBJECT MODULUS
 > what is dom tree and how is like that
 ![dom tree](../image/Screenshot%20from%202022-11-18%2007-47-02.png)

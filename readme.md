@@ -116,4 +116,5 @@
 ---
 [62-DOM-target-methods](./MD/62-DOM-target-object.md)
 ---
+[63-DOM-get-set-value](./MD/63-DOM-get-set-value-method.md)
 # The end

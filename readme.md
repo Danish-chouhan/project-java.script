@@ -146,4 +146,6 @@
 ---
 [77-contains-method](./MD/77-Contains-method.md)
 ---
+[78-hasAttribute-and-hasChildNodes](./MD/69-children-and-childNode-method.md)
+---
 # The end

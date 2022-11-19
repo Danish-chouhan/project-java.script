@@ -120,4 +120,6 @@
 ---
 [64-quaryselector-and-quaryselectorall-method](./MD/64-quaryselector-and-quaryselectorall-method.md)
 ---
+[65-DOM-CSS-styling-methods](./MD/65-DOM-CSS-styleing-method.md)
+---
 # The end

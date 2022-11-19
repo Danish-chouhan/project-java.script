@@ -144,4 +144,6 @@
 ---
 [76-cloneNode-method](./MD/76-cloneNode-method.md)
 ---
+[77-contains-method](./MD/77-Contains-method.md)
+---
 # The end

@@ -140,4 +140,6 @@
 ---
 [74-INSERTADJECENT-AND-INSERTADJECENTHTML](./MD/74-insertAdjecent-and-insertAdjecentHTML-method.md)
 ---
+[75-replaceChild-and-removeChild](./MD/75-replaceChild-and-removeChild-method.md)
+---
 # The end

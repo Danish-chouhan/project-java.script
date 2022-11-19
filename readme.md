@@ -136,4 +136,6 @@
 ---
 [72-CreatElement-and-creatTextNode](./MD/72-creatElement-and-createTextNode-method.md)
 ---
+[73-appendChild-and-insertBefore](./MD/73-appendChild-and-insertBefore-method.md)
+---
 # The end

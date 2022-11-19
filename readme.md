@@ -138,4 +138,6 @@
 ---
 [73-appendChild-and-insertBefore](./MD/73-appendChild-and-insertBefore-method.md)
 ---
+[74-INSERTADJECENT-AND-INSERTADJECENTHTML](./MD/74-insertAdjecent-and-insertAdjecentHTML-method.md)
+---
 # The end

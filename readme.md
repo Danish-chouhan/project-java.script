@@ -134,4 +134,6 @@
 ---
 [71-nextSiblings-and-previusSiblings](./MD/71-previusSibling-and-nextSiblings-method.md)
 ---
+[72-CreatElement-and-creatTextNode](./MD/72-creatElement-and-createTextNode-method.md)
+---
 # The end

@@ -128,4 +128,6 @@
 ---
 [68-parenetElement-and-ParentNode](./MD/68-parentElement-and-parentNode-method.md)
 ---
+[69-children-and-childNodes](./MD/69-children-and-childNode-method.md)
+---
 # The end

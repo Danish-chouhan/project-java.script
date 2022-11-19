@@ -124,4 +124,6 @@
 ---
 [66-AddEventListner-method](./MD/66-addEventListner-method.md)
 ---
+[67-classList-methods](./MD/67-classLIST-method.md)
+---
 # The end

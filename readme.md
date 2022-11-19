@@ -130,5 +130,6 @@
 ---
 [69-children-and-childNodes](./MD/69-children-and-childNode-method.md)
 ---
-
+[70-firstchild-and-lastchild](./MD/70-firstChild-and-LastChild-method.md)
+---
 # The end

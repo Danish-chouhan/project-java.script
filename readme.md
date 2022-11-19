@@ -117,4 +117,7 @@
 [62-DOM-target-methods](./MD/62-DOM-target-object.md)
 ---
 [63-DOM-get-set-value](./MD/63-DOM-get-set-value-method.md)
+---
+[64-quaryselector-and-quaryselectorall-method](./MD/64-quaryselector-and-quaryselectorall-method.md)
+---
 # The end

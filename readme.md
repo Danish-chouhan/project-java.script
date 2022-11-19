@@ -132,4 +132,6 @@
 ---
 [70-firstchild-and-lastchild](./MD/70-firstChild-and-LastChild-method.md)
 ---
+[71-nextSiblings-and-previusSiblings](./MD/71-previusSibling-and-nextSiblings-method.md)
+---
 # The end

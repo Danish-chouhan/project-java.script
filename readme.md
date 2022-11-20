@@ -156,4 +156,6 @@
 ---
 [82-setInterval-and-clearInterval-methods](./MD/82-setInterval-and-clearInterval-method.md)
 ---
+[83-setTimeOut-and-clearTimeOut](./MD/83-setTimeOut-and-clearTimeOut.md)
+---
 # The end

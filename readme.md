@@ -150,4 +150,6 @@
 ---
 [79-isEqualNode-Method](./MD/79-isEqualNode-method.md)
 ---
+[80-form-events-method](./MD/80-Form-Event-method.md)
+---
 # The end

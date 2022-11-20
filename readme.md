@@ -154,4 +154,6 @@
 ---
 [81-form-events-method-II](./MD/81-Form-Event-II-method.md)
 ---
+[82-setInterval-and-clearInterval-methods](./MD/82-setInterval-and-clearInterval-method.md)
+---
 # The end

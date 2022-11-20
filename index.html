@@ -103,15 +103,18 @@
        <!-- <script src="./JS/77-Contains-method.js"></script> -->
        <!-- <script src="./JS/78-hasAttribute-and-hasChildNodes-method.js"></script> -->
        <!-- <script src="./JS/79-isEqualNode-method.js"></script> -->
-       <form>
-        name ; <input type="text" id="name" onfocus="fF(this)" onblur="bF(this)" oninput="iF(this)"><br>
-        age ; <input type="text" id="age" onfocus="fF(this)" onblur="bF(this)" oninput="iF(this)"><br>
-        country ; <select name="country" id="country" onfocus="fF(this)" onblur="bF(this)" oninput="iF(this)">
+       <form onsubmit="sbF()">
+        name ; <input type="text" id="name" onchange="cF(this)"><br>
+        age ; <input type="text" id="age" onselect="sF(this)"><br>
+        email ; <input type="email" oninvalid="alert('please enter the correct email')">
+        country ; <select name="country">
           <option value="india">india</option>
           <option value="pakistan">pakistan</option>
         </select>
+        <input type="submit">
        </form>
        <div id="if" style="border: 1px solid red ;"></div>
-       <script src="./JS/80-Form-Event-method.js"></script>
+       <!-- <script src="./JS/80-Form-Event-method.js"></script> -->
+       <script src="./JS/81-Form-Event-II-method.js"></script>
       </body>
 </html>

@@ -160,6 +160,8 @@
 ---
 [84-BOM-intro](./MD/84-BOM-intro.md)
 ---
-[85-window-height-and-width-method](./JS/85-window-height-and-width-method.js)
+[85-window-height-and-width-method](./MD/86-window-open-and-close-method.md)
+---
+[86-open-and-close-metod](./MD/86-window-open-and-close-method.md)
 ---
 # The end`

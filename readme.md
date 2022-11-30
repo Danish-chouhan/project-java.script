@@ -164,4 +164,3 @@
 ---
 [86-open-and-close-metod](./MD/86-window-open-and-close-method.md)
 ---
-# The end`
